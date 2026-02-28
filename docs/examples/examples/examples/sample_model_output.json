@@ -1,8 +1,0 @@
-{
-  "action": "generate_spice_netlist",
-  "parameters": {
-    "circuit_type": "RC_low_pass",
-    "resistance": "1k",
-    "capacitance": "10uF"
-  }
-}
